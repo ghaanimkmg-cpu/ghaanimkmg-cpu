@@ -1,9 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:7c3aed,100:4f46e5&height=5&section=header" width="100%" />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:4f46e5,100:7c3aed&height=200&section=header&text=Mohammed%20Ghaanim&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product-minded%20Creator&descSize=17&descAlignY=75&descColor=a5b4fc" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:030306,40:080614,100:10092a&height=230&text=Mohammed%20Ghaanim&fontSize=56&fontColor=f8fafc&fontAlignY=44&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descSize=19&descAlignY=63&descColor=818cf8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Building+full-stack+and+AI-powered+apps;FastAPI+%2B+React+%2B+Python+%2B+Gemini;From+idea+to+working+product%2C+phase+by+phase;Always+learning%2C+always+shipping" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&lines=_%20Building+full-stack+%26+AI-powered+products;_%20FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+API;_%20From+idea+to+working+product%2C+phase+by+phase;_%20Always+learning.+Always+shipping." alt="Typing animation" />
 </p>
 
 <p align="center">
