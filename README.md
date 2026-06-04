@@ -1,9 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:070410,100:160d2b&height=210&section=header&text=Mohammed%20Ghaanim&fontSize=54&fontColor=f8fafc&fontAlignY=44&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Product-minded&descSize=16&descAlignY=66&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a8a&height=220&section=header&text=Mohammed%20Ghaanim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+practical+AI-powered+web+apps;FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+API;From+idea+to+working+product%2C+phase+by+phase;Clean+architecture.+Thoughtful+design." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&color=38BDF8&lines=Building+practical+full-stack+web+apps;Creating+AI-powered+product+experiences;Turning+ideas+into+working+projects;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I build full-stack and AI-powered applications with clean user flows, backend logic, authentication, dashboards, and product thinking.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563eb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Builder-f97316?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Product-Minded-9333ea?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-ghaanimkmg-111827?style=for-the-badge&logo=github">
 </p>
 
 ---
