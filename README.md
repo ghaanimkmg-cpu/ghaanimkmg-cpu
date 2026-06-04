@@ -42,20 +42,6 @@ I'm still building and growing, and I try to be honest about that. Every project
 
 ---
 
-## &nbsp;📊 &nbsp;GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaanimkmg-cpu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=7c3aed&text_color=a5b4fc&border_radius=12" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaanimkmg-cpu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a5b4fc&border_radius=12" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghaanimkmg-cpu&theme=midnight-purple&hide_border=true&background=0d1117&ring=4f46e5&fire=7c3aed&currStreakLabel=818cf8&sideLabels=a5b4fc&dates=6b7280&border_radius=12" />
-</p>
-
----
-
 ## &nbsp;📈 &nbsp;Contribution Activity
 
 <p align="center">
