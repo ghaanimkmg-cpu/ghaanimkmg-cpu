@@ -42,14 +42,6 @@ I'm still building and growing, and I try to be honest about that. Every project
 
 ---
 
-## &nbsp;🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghaanimkmg-cpu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</p>
-
----
-
 ## &nbsp;📊 &nbsp;GitHub Stats
 
 <p align="center">
