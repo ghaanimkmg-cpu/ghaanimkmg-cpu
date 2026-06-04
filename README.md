@@ -118,12 +118,12 @@ A few things I try to stay consistent about:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaanimkmg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=f59e0b&text_color=94a3b8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaanimkmg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&text_color=94a3b8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghaanimkmg-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=f59e0b&text_color=94a3b8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaanimkmg-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&text_color=94a3b8" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghaanimkmg&theme=tokyonight&hide_border=true&background=0f172a&ring=2563eb&fire=f59e0b&currStreakLabel=94a3b8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ghaanimkmg-cpu&theme=tokyonight&hide_border=true&background=0f172a&ring=2563eb&fire=f59e0b&currStreakLabel=94a3b8" alt="GitHub Streak" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ A few things I try to stay consistent about:
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghaanimkmg/ghaanimkmg/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/ghaanimkmg-cpu/ghaanimkmg-cpu/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
