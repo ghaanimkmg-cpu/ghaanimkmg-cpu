@@ -71,20 +71,20 @@
   <circle cx="700" cy="280" r="220" fill="url(#orb3)" class="orb-3" />
 
   <!-- Right Side UI / Product Interface -->
-  <g transform="translate(750, 50)">
+  <g transform="translate(820, 50)">
     
     <!-- Connection Lines Backdrop -->
-    <path d="M 100 150 L 350 150 M 200 50 L 200 300 M 150 250 L 350 100" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="4 4" />
+    <path d="M 70 150 L 280 150 M 170 50 L 170 300 M 120 250 L 280 100" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="4 4" />
     
     <!-- Central HUD Ring -->
-    <g transform="translate(220, 160)">
+    <g transform="translate(180, 160)">
       <circle cx="0" cy="0" r="120" fill="none" stroke="rgba(56, 189, 248, 0.05)" stroke-width="1" />
       <circle cx="0" cy="0" r="100" fill="none" stroke="rgba(192, 132, 252, 0.15)" stroke-width="1" stroke-dasharray="2 6" class="hud-spin" />
       <circle cx="0" cy="0" r="80" fill="none" stroke="rgba(56, 189, 248, 0.2)" stroke-width="2" stroke-dasharray="20 10 5 10" class="hud-spin-reverse" />
     </g>
 
     <!-- UI Panel 1: Main Dashboard/Wireframe -->
-    <g transform="translate(140, 80)" class="panel-1">
+    <g transform="translate(100, 80)" class="panel-1">
       <!-- Card Base -->
       <rect x="0" y="0" width="220" height="140" class="glass-panel" />
       <!-- Header -->
@@ -112,7 +112,7 @@
     </g>
 
     <!-- UI Panel 2: Secondary Floating Panel (Code/API concept) -->
-    <g transform="translate(60, 180)" class="panel-2">
+    <g transform="translate(50, 180)" class="panel-2">
       <rect x="0" y="0" width="160" height="90" class="glass-panel" />
       <rect x="15" y="15" width="40" height="14" fill="rgba(192, 132, 252, 0.15)" rx="4" />
       <text x="35" y="25" class="tiny-text" text-anchor="middle" fill="#c084fc">API</text>
@@ -123,7 +123,7 @@
     </g>
 
     <!-- UI Panel 3: Data / RAG node -->
-    <g transform="translate(280, 240)" class="panel-3">
+    <g transform="translate(210, 240)" class="panel-3">
       <rect x="0" y="0" width="120" height="60" class="glass-panel" />
       <circle cx="25" cy="30" r="12" fill="none" stroke="#38bdf8" stroke-width="2" />
       <circle cx="25" cy="30" r="4" fill="#38bdf8" />
@@ -133,10 +133,10 @@
     </g>
     
     <!-- Accent Dots -->
-    <circle cx="100" cy="150" r="3" fill="#38bdf8" />
-    <circle cx="350" cy="150" r="3" fill="#c084fc" />
-    <circle cx="200" cy="50" r="3" fill="#38bdf8" />
-    <circle cx="200" cy="300" r="3" fill="#34d399" />
+    <circle cx="70" cy="150" r="3" fill="#38bdf8" />
+    <circle cx="280" cy="150" r="3" fill="#c084fc" />
+    <circle cx="170" cy="50" r="3" fill="#38bdf8" />
+    <circle cx="170" cy="300" r="3" fill="#34d399" />
   </g>
 
   <!-- Left Side Text (Identity) -->
