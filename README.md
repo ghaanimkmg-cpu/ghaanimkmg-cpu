@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,40:0f172a,70:1e3a8a,100:9333ea&text=Mohammed%20Ghaanim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=58&descSize=18" alt="Mohammed Ghaanim Premium Header" />
+  <img src="assets/profile-header.svg" width="100%" alt="Mohammed Ghaanim Profile Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2600&pause=900&center=true&vCenter=true&width=900&color=38BDF8&lines=Building+full-stack+products+with+real+user+flows;Creating+AI-powered+web+applications;Designing+dashboards%2C+APIs%2C+and+authentication+systems;Turning+ideas+into+working+software;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&center=true&vCenter=true&width=900&color=38BDF8&lines=Building+full-stack+products+with+real+user+flows;Creating+AI-powered+web+applications;Designing+dashboards%2C+APIs%2C+and+authentication+systems;Turning+ideas+into+working+software;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center"><b>Tech I Work With</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,sqlite,git,github,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,sqlite,git,github,vscode&perline=11" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/AI-Builder-f97316?style=for-the-badge">
   <img src="https://img.shields.io/badge/Product-Minded-9333ea?style=for-the-badge">
   <img src="https://img.shields.io/badge/RAG-Systems-06b6d4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Auth-Dashboards-10b981?style=for-the-badge">
 </p>
 
 <p align="center">
