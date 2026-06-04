@@ -1,17 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:7c3aed,100:4f46e5&height=5&section=header" width="100%" />
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:030306,40:080614,100:10092a&height=230&text=Mohammed%20Ghaanim&fontSize=56&fontColor=f8fafc&fontAlignY=44&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descSize=19&descAlignY=63&descColor=818cf8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1e1b4b&height=220&section=header&text=Mohammed%20Ghaanim&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20%7C%20AI%20Builder%20%7C%20Product-minded&descSize=20&descAlignY=60&descColor=a5b4fc" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&lines=_%20Building+full-stack+%26+AI-powered+products;_%20FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+API;_%20From+idea+to+working+product%2C+phase+by+phase;_%20Always+learning.+Always+shipping." alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghaanimkmg-cpu&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ghaanimkmg-cpu?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=FOLLOWERS" />
 </p>
 
 ---
