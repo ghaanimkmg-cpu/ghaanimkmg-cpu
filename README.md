@@ -46,7 +46,6 @@ I'm still building and growing, and I try to be honest about that. Every project
 |---|---|---|---|---|
 | 🔐 | **Hifz Tracker v2.0** | Full-stack Hifz management system with login, protected routes, student records, and progress tracking | Python · FastAPI · JS · Database | ✅ Completed |
 | 🤖 | **Islamic RAG Assistant** | AI-powered Islamic knowledge assistant using RAG, chunk retrieval, Gemini API, and quota-safe error handling | Python · FastAPI · Gemini · RAG | ✅ Completed |
-| 🏛️ | **UEF Web App** | Membership and user management platform with login, role-based access, admin dashboard, and database planning | Frontend · Backend · Auth · DB | 🔄 In Progress |
 | ⚡ | **Nova AI Agent** | Desktop-style AI assistant experiment exploring local AI agent interfaces and prompt-response flows | Python · UI · Local AI | 🧪 Prototype |
 
 ---
