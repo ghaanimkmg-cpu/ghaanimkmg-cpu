@@ -71,7 +71,7 @@
   <circle cx="700" cy="280" r="220" fill="url(#orb3)" class="orb-3" />
 
   <!-- Right Side UI / Product Interface -->
-  <g transform="translate(680, 50)">
+  <g transform="translate(750, 50)">
     
     <!-- Connection Lines Backdrop -->
     <path d="M 100 150 L 350 150 M 200 50 L 200 300 M 150 250 L 350 100" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="4 4" />
