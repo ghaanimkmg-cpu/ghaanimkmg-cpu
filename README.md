@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:1e3a8a,100:7c3aed&text=Mohammed%20Ghaanim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=55&descSize=18" alt="Mohammed Ghaanim Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,40:0f172a,70:1e3a8a,100:9333ea&text=Mohammed%20Ghaanim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=58&descSize=18" alt="Mohammed Ghaanim Premium Header" />
 </p>
 
 <p align="center">
@@ -10,20 +10,25 @@
   I build practical full-stack and AI-powered applications with clean frontend flows, backend APIs, authentication, dashboards, databases, and product-focused thinking.
 </p>
 
+<p align="center"><b>Tech I Work With</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,sqlite,git,github,vscode&perline=11" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563eb?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-Builder-f97316?style=for-the-badge">
   <img src="https://img.shields.io/badge/Product-Minded-9333ea?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Backend-FastAPI-059669?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-ghaanimkmg-111827?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/RAG-Systems-06b6d4?style=for-the-badge">
 </p>
 
 <p align="center">
   <a href="https://github.com/ghaanimkmg">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-ghaanimkmg-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:ghaanimkmg@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -36,10 +41,6 @@
 ---
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%" />
-</p>
 
 ## &nbsp;👤 &nbsp;About Me
 
