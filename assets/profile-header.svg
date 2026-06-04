@@ -15,56 +15,49 @@
 
     <!-- Orb Gradients -->
     <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.15" />
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.12" />
       <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.15" />
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.12" />
       <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.15" />
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12" />
       <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
     </radialGradient>
 
     <!-- Grid Pattern -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.02)" stroke-width="1"/>
     </pattern>
 
-    <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
     <style>
-      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 54px; font-weight: 800; fill: #f8fafc; }
-      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 600; fill: #94a3b8; letter-spacing: 1px; }
-      .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; fill: #64748b; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 56px; font-weight: 800; fill: #ffffff; letter-spacing: -0.5px; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; fill: #a5b4fc; letter-spacing: 1.5px; text-transform: uppercase; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 17px; font-weight: 400; fill: #94a3b8; }
       
-      .tag-bg { fill: rgba(30, 41, 59, 0.5); stroke: rgba(51, 65, 85, 0.5); stroke-width: 1px; rx: 6px; }
-      .tag-text { font-family: "Fira Code", monospace; font-size: 14px; font-weight: 500; fill: #38bdf8; }
-      .tag-text-purple { fill: #c084fc; }
-      .tag-text-green { fill: #34d399; }
+      /* Glassmorphism Panels */
+      .glass-panel { fill: rgba(15, 23, 42, 0.4); stroke: rgba(255,255,255,0.08); stroke-width: 1px; backdrop-filter: blur(8px); rx: 12px; }
+      .glass-header { fill: rgba(255,255,255,0.03); }
+      .code-line { stroke-linecap: round; }
       
-      @keyframes float1 { 0%, 100% { transform: translateY(0) translateX(0); } 50% { transform: translateY(-20px) translateX(10px); } }
-      @keyframes float2 { 0%, 100% { transform: translateY(0) translateX(0); } 50% { transform: translateY(20px) translateX(-15px); } }
-      @keyframes float3 { 0%, 100% { transform: translateY(0) scale(1); } 50% { transform: translateY(-15px) scale(1.05); } }
-      @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+      .tiny-text { font-family: "Fira Code", monospace; font-size: 10px; font-weight: 600; fill: #60a5fa; letter-spacing: 1px; }
+      
+      @keyframes float1 { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      @keyframes float2 { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(10px); } }
+      @keyframes orbit { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
       
       .orb-1 { animation: float1 15s ease-in-out infinite; }
       .orb-2 { animation: float2 18s ease-in-out infinite; }
-      .orb-3 { animation: float3 20s ease-in-out infinite; }
-      .glow-pulse { animation: pulse 4s ease-in-out infinite; }
-      .code-float-1 { animation: float1 8s ease-in-out infinite; }
-      .code-float-2 { animation: float2 10s ease-in-out infinite; }
-      .code-float-3 { animation: float3 9s ease-in-out infinite; }
-      .code-float-4 { animation: float1 11s ease-in-out infinite; }
-      .code-float-5 { animation: float2 12s ease-in-out infinite; }
+      .orb-3 { animation: float1 20s ease-in-out infinite; }
+      
+      .panel-1 { animation: float1 10s ease-in-out infinite; }
+      .panel-2 { animation: float2 12s ease-in-out infinite; }
+      .panel-3 { animation: float1 14s ease-in-out infinite; }
+      
+      .hud-spin { transform-origin: center; animation: orbit 30s linear infinite; }
+      .hud-spin-reverse { transform-origin: center; animation: orbit 40s linear infinite reverse; }
     </style>
   </defs>
 
@@ -73,69 +66,97 @@
   <rect width="1200" height="420" fill="url(#grid)" rx="16" />
 
   <!-- Animated Orbs -->
-  <circle cx="900" cy="100" r="250" fill="url(#orb1)" class="orb-1" />
-  <circle cx="1050" cy="300" r="300" fill="url(#orb2)" class="orb-2" />
-  <circle cx="700" cy="250" r="200" fill="url(#orb3)" class="orb-3" />
+  <circle cx="900" cy="150" r="280" fill="url(#orb1)" class="orb-1" />
+  <circle cx="1050" cy="300" r="250" fill="url(#orb2)" class="orb-2" />
+  <circle cx="700" cy="280" r="220" fill="url(#orb3)" class="orb-3" />
 
-  <!-- Abstract Graphic / Tech Visuals (Right Side) -->
-  <g transform="translate(750, 60)">
-    <!-- Main Center Core -->
-    <circle cx="180" cy="150" r="80" fill="none" stroke="rgba(56, 189, 248, 0.1)" stroke-width="2" class="glow-pulse"/>
-    <circle cx="180" cy="150" r="60" fill="none" stroke="rgba(192, 132, 252, 0.2)" stroke-width="1" stroke-dasharray="4 4">
-      <animateTransform attributeName="transform" type="rotate" from="0 180 150" to="360 180 150" dur="20s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="180" cy="150" r="40" fill="rgba(56, 189, 248, 0.05)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="2"/>
-    <path d="M 165 150 L 195 150 M 180 135 L 180 165" stroke="rgba(56, 189, 248, 0.8)" stroke-width="3" stroke-linecap="round" />
+  <!-- Right Side UI / Product Interface -->
+  <g transform="translate(680, 50)">
     
-    <!-- Floating Tech Badges -->
-    <g transform="translate(250, 40)" class="code-float-1">
-      <rect x="0" y="0" width="80" height="32" class="tag-bg" />
-      <text x="40" y="21" class="tag-text" text-anchor="middle">&lt;API /&gt;</text>
+    <!-- Connection Lines Backdrop -->
+    <path d="M 100 150 L 350 150 M 200 50 L 200 300 M 150 250 L 350 100" stroke="rgba(255,255,255,0.05)" stroke-width="1" stroke-dasharray="4 4" />
+    
+    <!-- Central HUD Ring -->
+    <g transform="translate(220, 160)">
+      <circle cx="0" cy="0" r="120" fill="none" stroke="rgba(56, 189, 248, 0.05)" stroke-width="1" />
+      <circle cx="0" cy="0" r="100" fill="none" stroke="rgba(192, 132, 252, 0.15)" stroke-width="1" stroke-dasharray="2 6" class="hud-spin" />
+      <circle cx="0" cy="0" r="80" fill="none" stroke="rgba(56, 189, 248, 0.2)" stroke-width="2" stroke-dasharray="20 10 5 10" class="hud-spin-reverse" />
     </g>
 
-    <g transform="translate(60, 20)" class="code-float-2">
-      <rect x="0" y="0" width="70" height="32" class="tag-bg" />
-      <text x="35" y="21" class="tag-text tag-text-purple" text-anchor="middle">RAG</text>
+    <!-- UI Panel 1: Main Dashboard/Wireframe -->
+    <g transform="translate(140, 80)" class="panel-1">
+      <!-- Card Base -->
+      <rect x="0" y="0" width="220" height="140" class="glass-panel" />
+      <!-- Header -->
+      <path d="M 0 12 Q 0 0 12 0 L 208 0 Q 220 0 220 12 L 220 30 L 0 30 Z" class="glass-header" />
+      <circle cx="15" cy="15" r="4" fill="#ef4444" opacity="0.6"/>
+      <circle cx="30" cy="15" r="4" fill="#eab308" opacity="0.6"/>
+      <circle cx="45" cy="15" r="4" fill="#22c55e" opacity="0.6"/>
+      
+      <!-- Content Lines -->
+      <rect x="15" y="45" width="120" height="6" fill="#38bdf8" rx="3" opacity="0.8" />
+      <rect x="15" y="65" width="180" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
+      <rect x="15" y="80" width="140" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
+      <rect x="15" y="95" width="160" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
+      
+      <!-- Mini Chart/Activity -->
+      <rect x="15" y="115" width="8" height="12" fill="#c084fc" rx="2" opacity="0.6" />
+      <rect x="27" y="105" width="8" height="22" fill="#c084fc" rx="2" opacity="0.8" />
+      <rect x="39" y="110" width="8" height="17" fill="#c084fc" rx="2" opacity="0.7" />
+      <rect x="51" y="95" width="8" height="32" fill="#38bdf8" rx="2" opacity="0.9" />
+      <rect x="63" y="100" width="8" height="27" fill="#c084fc" rx="2" opacity="0.8" />
+      
+      <!-- Tag -->
+      <rect x="150" y="42" width="50" height="14" fill="rgba(56, 189, 248, 0.15)" rx="4" />
+      <text x="175" y="52" class="tiny-text" text-anchor="middle">AUTH</text>
     </g>
 
-    <g transform="translate(20, 220)" class="code-float-3">
-      <rect x="0" y="0" width="80" height="32" class="tag-bg" />
-      <text x="40" y="21" class="tag-text tag-text-green" text-anchor="middle">AUTH</text>
+    <!-- UI Panel 2: Secondary Floating Panel (Code/API concept) -->
+    <g transform="translate(60, 180)" class="panel-2">
+      <rect x="0" y="0" width="160" height="90" class="glass-panel" />
+      <rect x="15" y="15" width="40" height="14" fill="rgba(192, 132, 252, 0.15)" rx="4" />
+      <text x="35" y="25" class="tiny-text" text-anchor="middle" fill="#c084fc">API</text>
+      
+      <rect x="15" y="40" width="100" height="4" fill="#34d399" rx="2" opacity="0.7" />
+      <rect x="15" y="55" width="130" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
+      <rect x="15" y="70" width="80" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
     </g>
 
-    <g transform="translate(260, 200)" class="code-float-4">
-      <rect x="0" y="0" width="105" height="32" class="tag-bg" />
-      <text x="52.5" y="21" class="tag-text" text-anchor="middle">DASHBOARD</text>
+    <!-- UI Panel 3: Data / RAG node -->
+    <g transform="translate(280, 240)" class="panel-3">
+      <rect x="0" y="0" width="120" height="60" class="glass-panel" />
+      <circle cx="25" cy="30" r="12" fill="none" stroke="#38bdf8" stroke-width="2" />
+      <circle cx="25" cy="30" r="4" fill="#38bdf8" />
+      <rect x="50" y="20" width="35" height="14" fill="rgba(52, 211, 153, 0.15)" rx="4" />
+      <text x="67.5" y="30" class="tiny-text" text-anchor="middle" fill="#34d399">RAG</text>
+      <rect x="50" y="42" width="50" height="4" fill="#94a3b8" rx="2" opacity="0.4" />
     </g>
-
-    <g transform="translate(130, 260)" class="code-float-5">
-      <rect x="0" y="0" width="100" height="32" class="tag-bg" />
-      <text x="50" y="21" class="tag-text tag-text-purple" text-anchor="middle">DATABASE</text>
-    </g>
-
-    <g transform="translate(110, -20)" class="code-float-3">
-      <rect x="0" y="0" width="190" height="32" fill="rgba(52, 211, 153, 0.1)" stroke="rgba(52, 211, 153, 0.3)" stroke-width="1" rx="16" />
-      <text x="95" y="21" class="tag-text tag-text-green" text-anchor="middle">BUILD → TEST → SHIP</text>
-    </g>
-
-    <!-- Connection Lines -->
-    <path d="M 180 90 L 180 50" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 2" />
-    <path d="M 240 150 L 280 150" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 2" />
-    <path d="M 120 150 L 80 150" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 2" />
-    <path d="M 180 210 L 180 250" stroke="rgba(255,255,255,0.1)" stroke-width="1" stroke-dasharray="2 2" />
+    
+    <!-- Accent Dots -->
+    <circle cx="100" cy="150" r="3" fill="#38bdf8" />
+    <circle cx="350" cy="150" r="3" fill="#c084fc" />
+    <circle cx="200" cy="50" r="3" fill="#38bdf8" />
+    <circle cx="200" cy="300" r="3" fill="#34d399" />
   </g>
 
   <!-- Left Side Text (Identity) -->
   <g transform="translate(80, 190)">
-    <text x="0" y="0" class="title" filter="url(#glow)">Mohammed Ghaanim</text>
-    <text x="0" y="45" class="subtitle">Full Stack Developer • AI Builder • Product-minded Creator</text>
-    <text x="0" y="90" class="desc">Building practical full-stack and AI-powered products with real user flows.</text>
+    <!-- Main Name (Clean, crisp, no heavy glow) -->
+    <text x="0" y="0" class="title">Mohammed Ghaanim</text>
     
-    <!-- Decorative Line -->
-    <rect x="0" y="115" width="60" height="4" fill="#38bdf8" rx="2" />
-    <rect x="68" y="115" width="12" height="4" fill="#c084fc" rx="2" />
+    <!-- Role Subtitle -->
+    <text x="0" y="45" class="subtitle">Full Stack Developer <tspan fill="#38bdf8">•</tspan> AI Builder <tspan fill="#38bdf8">•</tspan> Product-minded Creator</text>
+    
+    <!-- Short Desc -->
+    <text x="0" y="85" class="desc">Building practical full-stack and AI-powered</text>
+    <text x="0" y="112" class="desc">products with real user flows.</text>
+    
+    <!-- Decorative Premium Line -->
+    <rect x="0" y="145" width="80" height="3" fill="url(#orb1)" rx="1.5" opacity="0.8" />
+    <rect x="0" y="145" width="30" height="3" fill="#38bdf8" rx="1.5" />
+    <rect x="35" y="145" width="10" height="3" fill="#c084fc" rx="1.5" />
   </g>
 
-  <!-- Border -->
-  <rect width="1198" height="418" x="1" y="1" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="2" rx="15" />
+  <!-- Clean Border -->
+  <rect width="1198" height="418" x="1" y="1" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="2" rx="15" />
 </svg>
