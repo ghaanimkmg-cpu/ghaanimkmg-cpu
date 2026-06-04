@@ -1,23 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a8a&height=220&section=header&text=Mohammed%20Ghaanim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:1e3a8a,100:7c3aed&text=Mohammed%20Ghaanim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descAlignY=55&descSize=18" alt="Mohammed Ghaanim Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&color=38BDF8&lines=Building+practical+full-stack+web+apps;Creating+AI-powered+product+experiences;Turning+ideas+into+working+projects;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2600&pause=900&center=true&vCenter=true&width=900&color=38BDF8&lines=Building+full-stack+products+with+real+user+flows;Creating+AI-powered+web+applications;Designing+dashboards%2C+APIs%2C+and+authentication+systems;Turning+ideas+into+working+software;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build full-stack and AI-powered applications with clean user flows, backend logic, authentication, dashboards, and product thinking.
+  I build practical full-stack and AI-powered applications with clean frontend flows, backend APIs, authentication, dashboards, databases, and product-focused thinking.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563eb?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-Builder-f97316?style=for-the-badge">
   <img src="https://img.shields.io/badge/Product-Minded-9333ea?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-FastAPI-059669?style=for-the-badge">
   <img src="https://img.shields.io/badge/GitHub-ghaanimkmg-111827?style=for-the-badge&logo=github">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ghaanimkmg">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:ghaanimkmg@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <i>Focused on building useful products, learning fast, communicating clearly, and improving every project I touch.</i>
+</p>
+
+<br>
+
 ---
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%" />
+</p>
 
 ## &nbsp;👤 &nbsp;About Me
 
