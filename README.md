@@ -1,134 +1,85 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Mohammed%20Ghaanim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Product-minded%20Creator&descSize=16&descAlignY=58&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:4f46e5,100:7c3aed&height=200&section=header&text=Mohammed%20Ghaanim&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product-minded%20Creator&descSize=17&descAlignY=75&descColor=a5b4fc" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Builder;Product-minded+Creator;Building+practical+AI-powered+web+apps;Learning%2C+shipping%2C+and+improving+every+day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Building+full-stack+and+AI-powered+apps;FastAPI+%2B+React+%2B+Python+%2B+Gemini;From+idea+to+working+product%2C+phase+by+phase;Always+learning%2C+always+shipping" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563eb?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/AI-Builder-f59e0b?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Product-Minded-7c3aed?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/Python-Backend-10b981?style=flat-square&logo=python&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/React-Frontend-61dafb?style=flat-square&logo=react&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479a1?style=flat-square&logo=mysql&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=ghaanimkmg-cpu&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ghaanimkmg-cpu?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=FOLLOWERS" />
 </p>
 
 ---
 
-## About Me
+## &nbsp;👤 &nbsp;About Me
 
-I'm a full-stack developer and AI builder who enjoys turning ideas into actual working products. My focus is on building practical web applications — things with real logic behind them: authentication systems, backend APIs, database-connected dashboards, clean user flows, and features that solve a real problem.
+I'm a full-stack developer and AI builder who enjoys turning ideas into actual working products. My focus is on building practical web applications — authentication systems, backend APIs, database-connected dashboards, clean user flows, and features that solve a real problem.
 
-I've been drawn to AI-assisted development and RAG-based systems lately, specifically the side of it that involves making AI output trustworthy, useful, and well-integrated with existing workflows. Beyond the technical side, I care about understanding *why* a product is being built before I start building it. Communication, structured thinking, and clean documentation matter as much to me as working code.
+I've been drawn to AI-assisted development and RAG-based systems lately — specifically the side of it that makes AI output trustworthy, structured, and useful. Beyond the technical side, I care about understanding *why* a product is being built before I start building it. Structured thinking and clean documentation matter as much to me as working code.
 
 I'm still building and growing, and I try to be honest about that. Every project I ship teaches me something I didn't know before.
 
 ---
 
-## What I Build
-
-- Full-stack web applications with frontend + backend + database
-- AI-powered assistants and knowledge tools
-- RAG-based systems with retrieval, chunking, and API integration
-- Authentication and login systems with protected routing
-- Admin dashboards and student/community platforms
-- RESTful backend APIs using FastAPI and Python
-- Database-connected applications with clean schema design
-- Product prototypes with real working logic
-- Project documentation and structured development workflows
-
----
-
-## Featured Projects
-
-| Project | What it does | Tech | Status |
-|---|---|---|---|
-| **Hifz Tracker v2.0** | Full-stack Hifz management system with login, protected routes, student records, and progress tracking | Python, FastAPI, HTML, CSS, JS, Database | ✅ Completed |
-| **Islamic RAG Assistant** | AI-powered Islamic knowledge assistant using RAG, strict chunk retrieval, Gemini API, and quota-safe error handling | Python, FastAPI, Gemini API, RAG, TXT knowledge base | ✅ Completed |
-| **UEF Web App** | Membership and user management platform with login, sign-up, role-based access, admin dashboard, and database planning | Frontend, Backend, Database, Auth | 🔄 In Progress |
-| **Nova AI Agent** | Desktop-style AI assistant experiment exploring local AI agent interfaces and prompt-response flows | Python, UI, Local AI | 🧪 Prototype |
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI & Intelligence**
-
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285f4?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7c3aed?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-f59e0b?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-2563eb?style=flat-square)
-
----
-
-## My Working Style
-
-I build projects in phases. Before writing a single line of code, I try to understand the actual goal — what the product is supposed to do, who uses it, and what "done" looks like. Then I break the work into smaller, manageable parts and build one piece at a time.
-
-Each phase gets tested before moving to the next one. I document what changed and why. I don't rush to the next feature if the current one isn't solid.
-
-A few things I try to stay consistent about:
-- Focus on real, working output — not just code that looks complete
-- Test features after building them, not at the very end
-- Document clearly so anyone (including future me) can follow the logic
-- Use AI tools to move faster, but understand the underlying logic
-- Care about product flow and user experience, not only whether the code runs
-
----
-
-## Current Focus
-
-- Improving full-stack development skills with real deployable projects
-- Building better backend and database architecture
-- Deepening my understanding of AI-powered application design
-- Improving GitHub documentation and project presentation
-- Moving local projects into production-ready, shareable builds
-- Practicing consistent shipping habits — building, testing, documenting, improving
-
----
-
-## GitHub Stats
+## &nbsp;🛠️ &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaanimkmg-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=f59e0b&text_color=94a3b8" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaanimkmg-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&text_color=94a3b8" height="170" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,html,css,mysql,sqlite,git,github,vscode&theme=dark&perline=11" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghaanimkmg-cpu&theme=tokyonight&hide_border=true&background=0f172a&ring=2563eb&fire=f59e0b&currStreakLabel=94a3b8" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-818CF8?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-## Contribution Activity
+## &nbsp;🚀 &nbsp;Featured Projects
+
+| &nbsp; | Project | What it does | Tech | Status |
+|---|---|---|---|---|
+| 🔐 | **Hifz Tracker v2.0** | Full-stack Hifz management system with login, protected routes, student records, and progress tracking | Python · FastAPI · JS · Database | ✅ Completed |
+| 🤖 | **Islamic RAG Assistant** | AI-powered Islamic knowledge assistant using RAG, chunk retrieval, Gemini API, and quota-safe error handling | Python · FastAPI · Gemini · RAG | ✅ Completed |
+| 🏛️ | **UEF Web App** | Membership and user management platform with login, role-based access, admin dashboard, and database planning | Frontend · Backend · Auth · DB | 🔄 In Progress |
+| ⚡ | **Nova AI Agent** | Desktop-style AI assistant experiment exploring local AI agent interfaces and prompt-response flows | Python · UI · Local AI | 🧪 Prototype |
+
+---
+
+## &nbsp;🏆 &nbsp;GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghaanimkmg-cpu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</p>
+
+---
+
+## &nbsp;📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghaanimkmg-cpu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=7c3aed&text_color=a5b4fc&border_radius=12" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaanimkmg-cpu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a5b4fc&border_radius=12" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ghaanimkmg-cpu&theme=midnight-purple&hide_border=true&background=0d1117&ring=4f46e5&fire=7c3aed&currStreakLabel=818cf8&sideLabels=a5b4fc&dates=6b7280&border_radius=12" />
+</p>
+
+---
+
+## &nbsp;📈 &nbsp;Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaanimkmg-cpu&theme=react-dark&bg_color=0d1117&color=818cf8&line=4f46e5&point=a78bfa&area=true&hide_border=true&radius=8" />
+</p>
+
+---
+
+## &nbsp;🐍 &nbsp;Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghaanimkmg-cpu/ghaanimkmg-cpu/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
@@ -136,24 +87,49 @@ A few things I try to stay consistent about:
 
 ---
 
-## Connect with Me
+## &nbsp;💬 &nbsp;My Working Style
+
+I build in phases. Before writing any code, I understand the goal — what the product does, who uses it, and what "done" looks like. Then I break it into smaller parts and build one piece at a time.
+
+- 🎯 &nbsp;Focus on real, working output — not just code that looks complete
+- 🧪 &nbsp;Test features after building, not all at the end
+- 📝 &nbsp;Document clearly so anyone can follow the logic
+- 🤖 &nbsp;Use AI tools efficiently, but understand the logic underneath
+- 📐 &nbsp;Care about product flow and UX, not only whether code runs
+
+---
+
+## &nbsp;🎯 &nbsp;Current Focus
+
+```text
+🔧  Full-stack development with real deployable projects
+🗄️  Better backend architecture and database design
+🤖  AI-powered application development
+📦  Moving local projects into production-ready builds
+📄  Cleaner GitHub documentation and project presentation
+🚀  Consistent shipping: build → test → document → improve
+```
+
+---
+
+## &nbsp;🤝 &nbsp;Connect
 
 <p align="center">
-  <a href="https://github.com/ghaanimkmg">
-    <img src="https://img.shields.io/badge/GitHub-ghaanimkmg-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/ghaanimkmg-cpu">
+    <img src="https://img.shields.io/badge/GitHub-ghaanimkmg--cpu-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=4f46e5" />
   </a>
   &nbsp;
   <a href="mailto:ghaanimkmg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ghaanimkmg%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ghaanimkmg%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Open to learning, building, collaborating, and improving every project I touch.
+  <i>Open to learning, building, collaborating, and improving every project I touch.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=130&section=footer&animation=fadeIn" />
 </p>
