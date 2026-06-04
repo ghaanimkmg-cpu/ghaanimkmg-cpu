@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:0f172a&height=210&section=header&text=Mohammed%20Ghaanim&fontSize=54&fontColor=f8fafc&fontAlignY=44&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Product-minded&descSize=16&descAlignY=66&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:070410,100:160d2b&height=210&section=header&text=Mohammed%20Ghaanim&fontSize=54&fontColor=f8fafc&fontAlignY=44&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Product-minded&descSize=16&descAlignY=66&descColor=a78bfa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=720&lines=Building+practical+AI-powered+web+apps;FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+API;From+idea+to+working+product%2C+phase+by+phase;Clean+architecture.+Thoughtful+design." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+practical+AI-powered+web+apps;FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+Gemini+API;From+idea+to+working+product%2C+phase+by+phase;Clean+architecture.+Thoughtful+design." alt="Typing animation" />
 </p>
 
 ---
